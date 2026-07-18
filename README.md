@@ -47,18 +47,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dipti900&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dipti900&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
----
-
 ## 🚀 About Me
 
 **💡 Who am I?**
@@ -83,7 +71,7 @@ Detailed walkthroughs of vulnerable machines, covering the full attack lifecycle
 - (AIWAPT) Armour Infosec Certified Web Application Penetration Tester
 - (AICWSE) Armour Infosec Certified WordPress Security Expert
 - (AICWSA) Armour Infosec Certified Windows Server Administrator
-- Linux Server Configuration & Security Certificate — Armour Infosec
+- (AICLSA) Armour Infosec Certified Linux Server Administrator
 
 ---
 
