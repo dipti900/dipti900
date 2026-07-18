@@ -18,7 +18,7 @@ Detailed walkthroughs of vulnerable machines, covering the full attack lifecycle
 - (AIWAPT) Armour Infosec Certified Web Application Penetration Tester
 - (AICWSE) Armour Infosec Certified WordPress Security Expert
 - (AICWSA) Armour Infosec Certified Windows Server Administrator
-- Linux Server Configuration & Security Certificate — Armour Infosec
+- (AICWlsA) Armour Infosec Certified Linux Server Administrator
 
 ## 📫 Connect with me
 
