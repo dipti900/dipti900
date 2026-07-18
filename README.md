@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Dipti Kotul 👋
 
-<!--
-**dipti900/dipti900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring Penetration Tester | Web Application Security | VAPT
 
-Here are some ideas to get you started:
+I'm building hands-on skills in ethical hacking and penetration testing through CTF platforms and vulnerable-machine practice. My focus areas include web application exploitation, Linux privilege escalation, and network enumeration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I work with
+
+`Nmap` · `Gobuster` · `Burp Suite` · `Metasploit` · `Hydra` · `CyberChef` · `Linux`
+
+## 📂 Featured Work
+
+**[Vulnerhub-Machine-Writeups-](https://github.com/dipti900/Vulnerhub-Machine-Writeups-)**
+Detailed walkthroughs of vulnerable machines, covering the full attack lifecycle — reconnaissance, exploitation, and privilege escalation.
+
+## 🎓 Certifications
+
+- (AIWAPT) Armour Infosec Certified Web Application Penetration Tester
+- (AICWSE) Armour Infosec Certified WordPress Security Expert
+- (AICWSA) Armour Infosec Certified Windows Server Administrator
+- Linux Server Configuration & Security Certificate — Armour Infosec
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/dipti-kotul-880530333)
+
+---
+*Actively seeking Junior Penetration Tester / SOC Analyst opportunities.*
