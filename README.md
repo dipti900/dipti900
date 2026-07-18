@@ -28,12 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Dipti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipti900&show_icons=true&theme=default)
-
----
-
 ## 🚀 About Me
 
 **💡 Who am I?**
