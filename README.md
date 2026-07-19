@@ -62,12 +62,4 @@
 I'm Dipti Kotul, an aspiring Penetration Tester focused on building hands-on skills in web application security and VAPT. 🔐 Identifying security flaws through structured, methodical testing.
 
 
-
-**🛠️ What I Do?**
-👩‍💻 Hands-on practice in web exploitation, Linux privilege escalation (SUID abuse, sudo misconfigurations, cron job abuse, restricted shell escape), and network enumeration
-🤝 Solving CTF machines and vulnerable-machine labs covering the full attack lifecycle
-🔍 Documenting detailed, reproducible write-ups for every machine solved
-
-**⚡ Mission:** I identify security flaws before attackers do! 🔥
-
 ---
